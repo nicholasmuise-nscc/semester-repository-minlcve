@@ -1,0 +1,15 @@
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\bin\Debug\net8.0\CardCollectionDemo.exe
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\bin\Debug\net8.0\CardCollectionDemo.deps.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\bin\Debug\net8.0\CardCollectionDemo.runtimeconfig.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\bin\Debug\net8.0\CardCollectionDemo.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\bin\Debug\net8.0\CardCollectionDemo.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.AssemblyInfo.cs
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.sourcelink.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\refint\CardCollectionDemo.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\CardCollectionDemo.genruntimeconfig.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\CardCollectionDemo\CardCollectionDemo\obj\Debug\net8.0\ref\CardCollectionDemo.dll
