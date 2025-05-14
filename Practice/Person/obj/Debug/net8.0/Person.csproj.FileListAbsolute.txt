@@ -1,0 +1,15 @@
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\bin\Debug\net8.0\Person.exe
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\bin\Debug\net8.0\Person.deps.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\bin\Debug\net8.0\Person.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\bin\Debug\net8.0\Person.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.sourcelink.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\refint\Person.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\Person\Person\obj\Debug\net8.0\ref\Person.dll
