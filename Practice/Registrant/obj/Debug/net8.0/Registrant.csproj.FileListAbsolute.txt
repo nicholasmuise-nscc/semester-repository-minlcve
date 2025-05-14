@@ -1,0 +1,15 @@
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\bin\Debug\net8.0\Registrant.exe
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\bin\Debug\net8.0\Registrant.deps.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\bin\Debug\net8.0\Registrant.runtimeconfig.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\bin\Debug\net8.0\Registrant.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\bin\Debug\net8.0\Registrant.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.AssemblyInfoInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.AssemblyInfo.cs
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.csproj.CoreCompileInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.sourcelink.json
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\refint\Registrant.dll
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\Registrant.genruntimeconfig.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\Registrant\Registrant\obj\Debug\net8.0\ref\Registrant.dll
