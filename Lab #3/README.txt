@@ -1,8 +1,8 @@
-# 🎲 Blackjack Windows Forms Game
+# Blackjack Windows Forms Game
 
 This is a basic Windows Forms Blackjack game built in C#.
 
-## ✅ Features
+## Features
 - Player starts with **$100** balance
 - Bet an amount each round
 - Draw cards with **Deal** and **Hit** buttons
