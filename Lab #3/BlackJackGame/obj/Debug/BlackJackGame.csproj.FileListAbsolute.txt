@@ -1,0 +1,11 @@
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.AssemblyReference.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.HistoryForm.resources
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\Min\semester_repo\semester-repository-minlcve\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.GameForm.resources
